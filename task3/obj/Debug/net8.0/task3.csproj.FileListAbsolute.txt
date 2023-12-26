@@ -1,0 +1,15 @@
+D:\Курс Разработчик\Знакомство с языками программирования\HomeTask7_recursion\task3\bin\Debug\net8.0\task3.exe
+D:\Курс Разработчик\Знакомство с языками программирования\HomeTask7_recursion\task3\bin\Debug\net8.0\task3.deps.json
+D:\Курс Разработчик\Знакомство с языками программирования\HomeTask7_recursion\task3\bin\Debug\net8.0\task3.runtimeconfig.json
+D:\Курс Разработчик\Знакомство с языками программирования\HomeTask7_recursion\task3\bin\Debug\net8.0\task3.dll
+D:\Курс Разработчик\Знакомство с языками программирования\HomeTask7_recursion\task3\bin\Debug\net8.0\task3.pdb
+D:\Курс Разработчик\Знакомство с языками программирования\HomeTask7_recursion\task3\obj\Debug\net8.0\task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курс Разработчик\Знакомство с языками программирования\HomeTask7_recursion\task3\obj\Debug\net8.0\task3.AssemblyInfoInputs.cache
+D:\Курс Разработчик\Знакомство с языками программирования\HomeTask7_recursion\task3\obj\Debug\net8.0\task3.AssemblyInfo.cs
+D:\Курс Разработчик\Знакомство с языками программирования\HomeTask7_recursion\task3\obj\Debug\net8.0\task3.csproj.CoreCompileInputs.cache
+D:\Курс Разработчик\Знакомство с языками программирования\HomeTask7_recursion\task3\obj\Debug\net8.0\task3.sourcelink.json
+D:\Курс Разработчик\Знакомство с языками программирования\HomeTask7_recursion\task3\obj\Debug\net8.0\task3.dll
+D:\Курс Разработчик\Знакомство с языками программирования\HomeTask7_recursion\task3\obj\Debug\net8.0\refint\task3.dll
+D:\Курс Разработчик\Знакомство с языками программирования\HomeTask7_recursion\task3\obj\Debug\net8.0\task3.pdb
+D:\Курс Разработчик\Знакомство с языками программирования\HomeTask7_recursion\task3\obj\Debug\net8.0\task3.genruntimeconfig.cache
+D:\Курс Разработчик\Знакомство с языками программирования\HomeTask7_recursion\task3\obj\Debug\net8.0\ref\task3.dll
